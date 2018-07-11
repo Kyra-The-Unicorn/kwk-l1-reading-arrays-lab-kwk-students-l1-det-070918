@@ -5,8 +5,8 @@ STUDENT_NAMES = [
   "Lady Gaga",
   "Nicki Minaj",
   "Rihanna"] 
-  return STUDENT_NAMES[0]
-
+end
+return STUDENT_NAMES[0]
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
