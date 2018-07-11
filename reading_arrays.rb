@@ -6,7 +6,7 @@ STUDENT_NAMES = [
   "Nicki Minaj",
   "Rihanna"
 ] 
-STUDENT_NAMES.first
+first_student_by_index.first
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
